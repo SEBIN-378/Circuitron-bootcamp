@@ -1,0 +1,28 @@
+### Project Description: Traffic Signal System Using Arduino Uno
+
+This project involves the design and simulation of a Traffic Signal System using an Arduino Uno, three LEDs (Red, Yellow, and Green), and current-limiting resistors in Tinkercad. The system is programmed to replicate the operation of a real-world traffic light by controlling the LEDs in a specific sequence and timing pattern.
+The Arduino Uno acts as the controller of the system. The Red LED remains ON for 3 seconds, indicating that vehicles must stop. After that, the Yellow LED turns ON for 1 second, serving as a warning signal that the traffic light is about to change. Finally, the Green LED turns ON for 3 seconds, allowing vehicles to proceed. This sequence repeats continuously through the use of the Arduino's `loop()` function.
+The project demonstrates the fundamentals of embedded systems, digital output control, and Arduino programming. It also helps beginners understand concepts such as circuit connections, LED interfacing, resistor usage, pin configuration using `pinMode()`, and timing control using the `delay()` function.
+By simulating the circuit in Tinkercad, the traffic signal can be tested and verified without requiring physical hardware. The project provides a practical introduction to automation and real-time control systems, making it an excellent learning exercise for students and beginners in electronics and programming.
+
+**Components Used:**
+
+* Arduino Uno
+* Red LED
+* Yellow LED
+* Green LED
+* 3 × 220Ω Resistors
+* Jumper Wires
+
+**Operation Sequence:**
+
+1. Red LED ON for 3 seconds
+2. Yellow LED ON for 1 second
+3. Green LED ON for 3 seconds
+4. Repeat continuously
+
+**Objective:**
+
+To design and simulate a basic traffic light controller that mimics the behavior of a real traffic signal using Arduino programming and electronic components.
+
+LINK: https://www.tinkercad.com/things/eLeeiy4jMQn-exquisite-hillar-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=ahJKKYMvdc8Vhs5wRl4zfE6d1XoRKUMTkAcssiL1dK8
