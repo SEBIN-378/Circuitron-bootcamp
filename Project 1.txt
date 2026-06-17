@@ -1,0 +1,18 @@
+    TASK_BRIEF
+
+Traffic Signal System
+
+Design and simulate a fully functional traffic signal system in Tinkercad using an Arduino Uno,
+LEDs, and appropriate resistors. The system must mimic the behavior of a real traffic signal by
+operating in the following sequence:
+
+- Red signal active for 3 seconds
+- Yellow signal active for 1 second
+- Green signal active for 3 seconds
+
+The sequence should repeat continuously without interruption.
+
+Your implementation must include proper circuit connections and an Arduino program written using the
+ 
+"setup()" and "loop()" functions. Test the simulation thoroughly and ensure the traffic signal
+operates as intended.
